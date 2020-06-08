@@ -1,0 +1,65 @@
+.header-list{
+  text-align: center;
+  font-family: Bodoni URW;
+  /*line-height: 80px;*/
+}
+
+.header-list li {
+  padding: 0 2%;
+  vertical-align: bottom;
+}
+
+.header-list li a{
+  color: black;
+  display: inline-block;
+  padding: .75em 0;
+}
+
+.header-list h1{
+  display: inline-block;
+}
+
+.list-inline-item:not(:last-child) {
+  margin-right: 0;
+}
+
+#example-2 img {
+  max-width: 100%;
+  width: 1550px;
+  height: 550px;
+  object-fit: cover;
+}
+
+.main-img{
+  padding-left: 10%;
+}
+
+.main-img img{
+  box-shadow: -10px 10px #f5f0e9;
+}
+
+.img-explanation{
+  padding-top: 4%;
+  padding-left: 5%;
+}
+
+.futura {
+  font-family: Futura;
+  letter-spacing: 0.12em;
+}
+
+.img-explanation h1{
+  font-family: Didot;
+  letter-spacing: 0.15em;
+}
+
+.ex {
+  font-family: 游明朝体;
+}
+
+.img-explanation a{
+  color: #333333;
+  padding-bottom: 1%;
+  text-decoration: none;
+  border-bottom: 1px solid #333333;
+}
